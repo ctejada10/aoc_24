@@ -33,7 +33,7 @@ To execute the solutions for a specific day:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/advent-of-code-2024.git
+   git clone https://github.com/ctejada10/advent-of-code-2024.git
    cd advent-of-code-2024
    ```
 
